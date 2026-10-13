@@ -5,8 +5,7 @@
 ---
 
 ## Overview
-
-`blobtracker` is an experimental computer vision and image processing system written in C.
+This is an experimental computer vision and image processing system written in C.
 
 It started as a low-level experiment in blob detection and visual manipulation. It has since evolved into a modular perception pipeline capable of processing static images and analyzing live camera frames, measuring detected regions, rendering visual annotations and exporting transformed images.
 
